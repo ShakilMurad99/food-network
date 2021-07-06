@@ -44,8 +44,11 @@ h1{
 .footer-bg{
     text-align: center;
     background-color: black;
-    height: 80px;
+    height: 200px;
 }
 .network-color{
     color: gray;
+}
+.footer-text{
+    padding-top: 20px;
 }
