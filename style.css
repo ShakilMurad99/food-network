@@ -52,3 +52,59 @@ h1{
 .footer-text{
     padding-top: 20px;
 }
+.flexible-container{
+    display: flex;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.Recipie-1{
+    width: 33.33%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    text-align: center;
+}
+.Recipie-1 img{
+    width: 300px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+}
+.Recipie-2{
+    width: 33.33%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    text-align: center;
+}
+.Recipie-2 img{
+    width: 300px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+}
+.Recipie-3{
+    width: 33.33%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    text-align: center;
+}
+.Recipie-3 img{
+    width: 300px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+}
